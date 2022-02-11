@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @07Castiel
+- 👋 Hi, I’m Leonardo Gabriel
 - 👀 I’m interested in  formar parcerias e aprender em conjunt com outras pessoas.
 - 🌱 I’m currently learning  Java Script
 - 💞️ I’m looking to collaborate on  em projetos pequenos que usam noções intermediarias
