@@ -10,12 +10,12 @@
 
 **Desenvolvedor em formação** com paixão por **tecnologia** e **programação**.
 
-- 🔭 Atualmente trabalhando em: **Aprendendo programação**
+- 🔭 Atualmente trabalhando em: **Projetos com Python**
 - 🌱 Estudando: **Desenvolvimento Full Stack**
 - 👯 Procurando colaborar em: **Projetos open source**
 - 🤝 Preciso de ajuda com: **Melhores práticas de código**
 - 💬 Me pergunte sobre: **Minha jornada de aprendizado**
-- 📫 Como me encontrar: **leonardo@email.com**
+- 📫 Como me encontrar: **leocastiel2019@gmail.com**
 - ⚡ Curiosidade: **Sonho em ser um desenvolvedor full stack**
 
 ---
