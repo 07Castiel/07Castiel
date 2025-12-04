@@ -88,10 +88,10 @@
 
 | Projeto | Descrição | Tecnologias | Links |
 |---------|-----------|-------------|-------|
-| **[Nome do Projeto 1]** | [Breve descrição do projeto e seu objetivo] | `React` `Node.js` `MongoDB` | [🔗 Demo](link) • [📁 Repo](link) |
-| **[Nome do Projeto 2]** | [Breve descrição do projeto e seu objetivo] | `Python` `Django` `PostgreSQL` | [🔗 Demo](link) • [📁 Repo](link) |
-| **[Nome do Projeto 3]** | [Breve descrição do projeto e seu objetivo] | `Vue.js` `Express` `MySQL` | [🔗 Demo](link) • [📁 Repo](link) |
-| **[Nome do Projeto 4]** | [Breve descrição do projeto e seu objetivo] | `React Native` `Firebase` | [🔗 Demo](link) • [📁 Repo](link) |
+| **Nucleo Tech** | Site para demosntrar portifólios de forma mias dinâmica | `HTML` `CSS` `JAVASCRIPT` | https://07castiel.github.io/Nucleo-Tech/
+| **Espaço GO** | EspaçoGo é uma plataforma web para buscar e anunciar espaços de eventos em Goiânia | `HTML` `CSS` `JAVASCRIPT` | https://07castiel.github.io/Espaco_GO/
+| **AuTEA Care** | MVP de plataforma web que conecta responsáveis, crianças autistas e profissionais de saúde por meio de jogos educativos, registro de rotina, painel clínico simples e área administrativa para demonstração e prospecção de parcerias. | `HTML` `CSS` `JAVASCRIPT` | [🔗 Demo](link) • [📁 Repo](link) |
+| **NutriFlow** | NutriFlow é um aplicativo web de nutrição personalizada que ajuda você a alcançar seus objetivos de saúde através do acompanhamento inteligente de alimentação e progresso. | 'React' 'TypeScript' 'Tailwind CSS' 'Vite' 'Hono (Cloudflare Workers)' 'Cloudflare D1 (SQLite)' 'Recharts Lucide React' | https://ytzwpuo72d3ia.mocha.app/
 
 ---
 
