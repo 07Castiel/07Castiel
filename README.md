@@ -101,15 +101,15 @@
   
   <!-- INSTRUÇÕES: Substitua os links pelos seus perfis reais -->
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[SEU_PERFIL])
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[SEU_USERNAME])
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[SEU_PERFIL])
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardobrito7/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/07Castiel)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leo_britobjj/?next=)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[SEU_PERFIL])
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@[SEU_CANAL])
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LenrdGbriel)
   [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/[SEU_CANAL])
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/[SEU_SERVIDOR])
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[SEU_EMAIL])
-  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://[SEU_PORTFOLIO])
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leocastiel2019@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://07castiel.github.io/Nucleo-Tech/)
 
 </div>
 
@@ -145,7 +145,7 @@
   <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" />
 </div>
 
-<!-- INSTRUÇÕES: Para configurar o Spotify, siga: https://github.com/kittinan/spotify-github-profile -->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ehnh36cp6lel0jcl220vkvdek&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=true&profanity=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=ehnh36cp6lel0jcl220vkvdek&redirect=true)
 
 ---
 
@@ -160,39 +160,3 @@
   **Obrigado pela visita! 🚀**
   
 </div>
-
----
-
-<!-- 
-INSTRUÇÕES FINAIS DE PERSONALIZAÇÃO:
-
-1. SUBSTITUIÇÕES OBRIGATÓRIAS:
-   - [SEU_NOME_AQUI]: Seu nome completo ou apelido
-   - [SEU_USERNAME_GITHUB]: Seu username do GitHub
-   - [SEU_EMAIL]: Seu endereço de email
-   - [ÁREA_DE_ATUAÇÃO]: Ex: "Desenvolvedor Full Stack"
-   - [SUAS_PAIXÕES]: Ex: "tecnologia"
-   - [SEUS_INTERESSES]: Ex: "inovação"
-
-2. PERSONALIZE AS SEÇÕES:
-   - Atualize a seção "Sobre mim" com suas informações
-   - Adicione/remova tecnologias conforme seu conhecimento
-   - Substitua os projetos pelos seus projetos reais
-   - Atualize os links das redes sociais
-
-3. TEMAS DISPONÍVEIS (para estatísticas):
-   - tokyonight, dark, radical, merko, gruvbox, onedark
-   - Para alterar o tema, substitua "tokyonight" pelo tema desejado
-
-4. RECURSOS OPCIONAIS:
-   - Para configurar o Spotify: https://github.com/kittinan/spotify-github-profile
-   - Para mais temas de estatísticas: https://github.com/anuraghazra/github-readme-stats
-
-5. COMO USAR:
-   - Crie um repositório com o mesmo nome do seu username
-   - Adicione este README.md no repositório
-   - Faça as substituições necessárias
-   - Commit e push das alterações
-
-Seu README estará visível no seu perfil do GitHub!
--->
