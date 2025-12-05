@@ -117,7 +117,7 @@
 ## 📈 Contribuições
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[SEU_USERNAME_GITHUB]&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=07Castiel&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -144,7 +144,7 @@
   <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" />
 </div>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ehnh36cp6lel0jcl220vkvdek?si=SW-Pl2YnSfmgmGPVSRN_cw&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=true&profanity=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=ehnh36cp6lel0jcl220vkvdek?si=SW-Pl2YnSfmgmGPVSRN_cw&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ehnh36cp6lel0jcl220vkvdek&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=true&profanity=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=ehnh36cp6lel0jcl220vkvdek&redirect=true)
 
 ---
 
