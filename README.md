@@ -138,16 +138,6 @@
 
 ---
 
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" />
-</div>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ehnh36cp6lel0jcl220vkvdek&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=true&profanity=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=ehnh36cp6lel0jcl220vkvdek&redirect=true)
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=07Castiel&color=58A6FF&style=flat-square&label=Visualizações" alt="Profile Views" />
 </div>
