@@ -10,7 +10,7 @@
 
 **Desenvolvedor em formação** com paixão por **tecnologia** e **programação**.
 
-- 🔭 Atualmente trabalhando em: **Projetos com Python**
+- 🔭 Atualmente trabalhando em: **Projetos Web e Mobile**
 - 🌱 Estudando: **Desenvolvimento Full Stack**
 - 👯 Procurando colaborar em: **Projetos open source**
 - 🤝 Preciso de ajuda com: **Melhores práticas de código**
