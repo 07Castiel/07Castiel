@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Leonardo Gabriel
+# 👋 Olá! Eu sou Leonardo Brito
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+Formação;Apaixonado+por+Tecnologia;Sonho+de+ser+Full+Stack" alt="Typing SVG" />
@@ -90,7 +90,7 @@
 |---------|-----------|-------------|-------|
 | **Nucleo Tech** | Site para demosntrar portifólios de forma mias dinâmica | `HTML` `CSS` `JAVASCRIPT` | https://07castiel.github.io/Nucleo-Tech/
 | **Espaço GO** | EspaçoGo é uma plataforma web para buscar e anunciar espaços de eventos em Goiânia | `HTML` `CSS` `JAVASCRIPT` | https://07castiel.github.io/Espaco_GO/
-| **AuTEA Care** | MVP de plataforma web que conecta responsáveis, crianças autistas e profissionais de saúde por meio de jogos educativos, registro de rotina, painel clínico simples e área administrativa para demonstração e prospecção de parcerias. | `HTML` `CSS` `JAVASCRIPT` | [🔗 Demo](link) • [📁 Repo](link) |
+| **AuTEA Care** | MVP de plataforma web que conecta responsáveis, crianças autistas e profissionais de saúde por meio de jogos educativos, registro de rotina, painel clínico simples e área administrativa para demonstração e prospecção de parcerias. | `HTML` `CSS` `JAVASCRIPT` | https://07castiel.github.io/AuTea-Care/ |
 | **NutriFlow** | NutriFlow é um aplicativo web de nutrição personalizada que ajuda você a alcançar seus objetivos de saúde através do acompanhamento inteligente de alimentação e progresso. | 'React' 'TypeScript' 'Tailwind CSS' 'Vite' 'Hono (Cloudflare Workers)' 'Cloudflare D1 (SQLite)' 'Recharts Lucide React' | https://ytzwpuo72d3ia.mocha.app/
 
 ---
