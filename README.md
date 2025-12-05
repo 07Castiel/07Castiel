@@ -125,7 +125,7 @@
 ## 🏆 GitHub Trofeus
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[SEU_USERNAME_GITHUB]&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=[07Castiel]&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
